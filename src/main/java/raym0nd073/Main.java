@@ -5,9 +5,6 @@ public class Main {
         System.out.printf("Hello World!");
         System.out.printf("Hello QAguru!");
         }
-<<<<<<< HEAD
+
     }
-=======
-    }
-}
->>>>>>> 710b27a54794518ca795bf1b7aecf879377615e9
+
